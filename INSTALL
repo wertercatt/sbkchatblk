@@ -1,0 +1,9 @@
+Building SBKBlockChat
+
+See doc/readme-qt.rst for instructions on building SBKBlockChat-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SBKBlockChat.
+
+See doc/build-*.txt for instructions on building sbkblockchatd,
+the intended-for-services, no-graphical-interface, reference
+implementation of SBKBlockChat.
